@@ -1,2 +1,4 @@
-# Money_mint
-D app for crypto based on flutter 
+# MoneyMint
+
+An Blockchain Based project.
+
